@@ -18,7 +18,7 @@ For Apple:
 cd TextSummarizer
 python3 main.py
 ```
-
+------------
 
 Usage(for Basic Execution) - 
 For Windows:
@@ -27,7 +27,7 @@ cd TextSummarizer
 py main.py -f InputContent.txt
 ```
 Usage(for Basic Execution) - 
-For Python:
+For Apple:
 ```bash
 cd TextSummarizer
 python3 main.py -f InputContent.txt
